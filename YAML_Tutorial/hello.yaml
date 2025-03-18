@@ -2,3 +2,8 @@ person:
  - name: Alice
  - age: 25
 ---
+"apple": I am red fruit
+---
+-apple
+-mango
+-bananas
